@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Entrepreneurship +1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-01 21:34+0100\n"
+"PO-Revision-Date: 2011-11-01 21:34+0100\n"
+"Last-Translator: Christian Rudolf <rudolf@disruptive.nu>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;_ex;esc_attr_x;esc_html_x;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: entrepreneurship.php:48
+msgid "<strong>Entrepreneurship +1:</strong> requires WordPress 3.0 or newer"
+msgstr ""
+
+#: entrepreneurship.php:168
+#: entrepreneurship.php:1235
+#: entrepreneurship.php:1236
+msgid "Entrepreneurship +1"
+msgstr "Entreprenörskap +1"
+
+#: entrepreneurship.php:172
+msgid "General"
+msgstr "Allmänt"
+
+#: entrepreneurship.php:180
+#: entrepreneurship.php:879
+msgid "Social Networks"
+msgstr "Inställningar Sociala Nätverk"
+
+#: entrepreneurship.php:232
+msgid "General Settings for Entrepreneurship +1"
+msgstr "Generella Inställningar för Entreprenörskap +1"
+
+#: entrepreneurship.php:239
+msgid "Default share message:"
+msgstr "Standard Call to Action för alla Poster och Pages:"
+
+#: entrepreneurship.php:247
+msgid "Show share box on post:"
+msgstr "Visa på alla Bloggens Poster:"
+
+#: entrepreneurship.php:255
+msgid "Show share box on page:"
+msgstr "Visa på alla Bloggens Sidor:"
+
+#: entrepreneurship.php:263
+#: entrepreneurship.php:535
+msgid "Background color:"
+msgstr "Bakgrundsfärg:"
+
+#: entrepreneurship.php:271
+msgid "Border color:"
+msgstr "Färg på Ramen:"
+
+#: entrepreneurship.php:280
+msgid "Settings for Facebook"
+msgstr "Inställningar för Facebook"
+
+#: entrepreneurship.php:287
+msgid "Add Facebook Like:"
+msgstr "Lägg till Facebook Gilla Knapp:"
+
+#: entrepreneurship.php:296
+msgid "Advanced settings for Facebook"
+msgstr "Avancerade Inställningar För Delande på Facebook"
+
+#: entrepreneurship.php:303
+msgid "Include Facebook Send button:"
+msgstr "Visa Facebooks \"Send\" knapp:"
+
+#: entrepreneurship.php:311
+msgid "Layout style:"
+msgstr "Utseende på Facebook knapp:"
+
+#: entrepreneurship.php:319
+msgid "Show Faces:"
+msgstr "Visa ansikten:"
+
+#: entrepreneurship.php:327
+msgid "Verb to display:"
+msgstr "Gilla eller Rekommendera:"
+
+#: entrepreneurship.php:335
+msgid "Color Scheme:"
+msgstr "Färgschema:"
+
+#: entrepreneurship.php:343
+msgid "Font:"
+msgstr ""
+
+#: entrepreneurship.php:352
+msgid "Settings for Twitter"
+msgstr "Inställningar för Twitter"
+
+#: entrepreneurship.php:359
+msgid "Add Twitter button:"
+msgstr "Lägg till Twitterknapp:"
+
+#: entrepreneurship.php:368
+msgid "Advanced settings for Twitter"
+msgstr "Avancerade inställningar för Twitter"
+
+#: entrepreneurship.php:375
+msgid "Optional default hash:"
+msgstr "Standard Hashtagg för ditt innehåll:"
+
+#: entrepreneurship.php:383
+#: entrepreneurship.php:439
+msgid "Button style:"
+msgstr "Stil på Twitterknappen:"
+
+#: entrepreneurship.php:391
+msgid "Via account:"
+msgstr "Via Twitterkonto:"
+
+#: entrepreneurship.php:399
+msgid "Releated account:"
+msgstr "Relaterat Twitterkonto:"
+
+#: entrepreneurship.php:407
+msgid "Releated account description:"
+msgstr "Beskrivning av relaterat Twitterkonto:"
+
+#: entrepreneurship.php:416
+msgid "Settings for LinkedIn"
+msgstr "Inställningar för Linkedin"
+
+#: entrepreneurship.php:423
+msgid "Add LinkedIn button:"
+msgstr "Lägg till Linkedin knapp:"
+
+#: entrepreneurship.php:432
+msgid "Advanced settings for LinkedIn"
+msgstr "Avancerade inställningar för Linkedin"
+
+#: entrepreneurship.php:448
+msgid "Settings for Google +1"
+msgstr "Inställningar för Google+"
+
+#: entrepreneurship.php:455
+msgid "Add Google +1 button:"
+msgstr "Lägg till knapp Google +1:"
+
+#: entrepreneurship.php:464
+msgid "Advanced settings for Google +1"
+msgstr "Avancerade inställningar för Google+"
+
+#: entrepreneurship.php:471
+msgid "Button size:"
+msgstr "Storlek på Google+ knappen:"
+
+#: entrepreneurship.php:479
+msgid "Include count:"
+msgstr "Visa antal Google+:"
+
+#: entrepreneurship.php:487
+msgid "Parse:"
+msgstr ""
+
+#: entrepreneurship.php:495
+msgid "JS Callback function:"
+msgstr "JS Callback-funktion:"
+
+#: entrepreneurship.php:504
+msgid "Settings for Pusha"
+msgstr "Inställningar för Pusha"
+
+#: entrepreneurship.php:511
+msgid "Add Pusha button:"
+msgstr "Lägg till Pushaknapp:"
+
+#: entrepreneurship.php:520
+msgid "Advanced settings for Pusha"
+msgstr "Avancerade inställningar för Pusha"
+
+#: entrepreneurship.php:527
+msgid "Open in a new window:"
+msgstr "Öppna i nytt fönster:"
+
+#: entrepreneurship.php:616
+#: entrepreneurship.php:642
+#: entrepreneurship.php:661
+#: entrepreneurship.php:685
+#: entrepreneurship.php:718
+#: entrepreneurship.php:760
+#: entrepreneurship.php:788
+#: entrepreneurship.php:814
+msgid "You can only choose between the options in the dropdown."
+msgstr "Du kan endast välja mellan valen i dropdown-boxen."
+
+#: entrepreneurship.php:860
+msgid "General Settings"
+msgstr "Allmänna inställningar"
+
+#: entrepreneurship.php:865
+#: entrepreneurship.php:904
+msgid "Save Changes"
+msgstr "Spara Ändringar"
+
+#: entrepreneurship.php:880
+msgid "For each social network there are some settings that you can do. If you are new to this, just leave it as it is. I have made sure that the default settings is okay. You can return back to this page at any time to change these settings. You can always send me an email on rudolf@disruptive.nu if you need support."
+msgstr "För varje socialt nätverk, som tex Facebook, finns det specifika inställningar att göra. är du en ovan användare behöver du inte göra några inställningar här. Jag har sett till att dina grundinställningar är ok. Du kan lungt återkomma till denna sidan när du blivit varm i kläderna och vill göra speciella saker med detta plugginet. Behöver du speciell assistans, bara maila mig på rudolf@disruptive.nu."
+
+#: entrepreneurship.php:915
+msgid "Here are the general settings for Entrepreneurship +1. You can further customize the settings when writing posts or pages."
+msgstr "Här skapar du de generella inställningarna för Entreprenörskap +1. Du kan även när du använder den skapa specifika inställningar för varje bloggpost och sida du skapar."
+
+#: entrepreneurship.php:919
+msgid "Enter your settings for Facebook."
+msgstr "Fyll i inställningar för Facebook."
+
+#: entrepreneurship.php:923
+msgid "Further customize your settings for Facebook."
+msgstr "Ytterligare inställningar för Facebook."
+
+#: entrepreneurship.php:927
+msgid "Enter your settings for Twitter."
+msgstr "Fyll i inställningar för Twitter."
+
+#: entrepreneurship.php:931
+msgid "Further customize your settings for Twitter."
+msgstr "Ytterligare inställningar för Twitter."
+
+#: entrepreneurship.php:935
+msgid "Enter your settings for LinkedIn."
+msgstr "Fyll i inställningar för LinkedIn."
+
+#: entrepreneurship.php:939
+msgid "Further customize your settings for LinkedIn."
+msgstr "Ytterligare inställningar för LinkedIn."
+
+#: entrepreneurship.php:943
+msgid "Enter your settings for Google +1."
+msgstr "Fyll i inställningar för Google +1"
+
+#: entrepreneurship.php:947
+msgid "Further customize your settings for Google +1."
+msgstr "Ytterligare inställningar för Google +1."
+
+#: entrepreneurship.php:951
+msgid "Enter your settings for Pusha."
+msgstr "Fyll i inställningar för Pusha."
+
+#: entrepreneurship.php:955
+msgid "Further customize your settings for Pusha."
+msgstr "Ytterligare inställningar för Pusha."
+
+#: entrepreneurship.php:984
+#, fuzzy
+msgid "If you don't choose a call to action this will be chosen. This call to action is placed in the top of the widget and should contain a generic suggestion to your readers to share your post or page. On Disruptive I use \"Tell your friends about Entrepreneurship\""
+msgstr "Om du inte själv väljer en call to action när du skriver posten så väljs denna. Denna rubriken är placerad högst upp i widgeten och bör vara någon typ av generell uppmaning till dina läsare att sprida din blogpost. På disruptive använder jag i skrivandet stund \"Berätta för dina Vänner om Entreprenörskap\""
+
+#: entrepreneurship.php:1010
+#: entrepreneurship.php:1078
+#: entrepreneurship.php:1126
+#: entrepreneurship.php:1145
+#: entrepreneurship.php:1190
+msgid "Show/Hide advanced settings"
+msgstr "Visa/Göm Avancerade Inställningar"
+
+#: entrepreneurship.php:1025
+msgid "standard"
+msgstr ""
+
+#: entrepreneurship.php:1026
+msgid "button_count"
+msgstr ""
+
+#: entrepreneurship.php:1027
+msgid "box_count"
+msgstr ""
+
+#: entrepreneurship.php:1043
+msgid "like"
+msgstr ""
+
+#: entrepreneurship.php:1044
+msgid "recommend"
+msgstr ""
+
+#: entrepreneurship.php:1053
+msgid "light"
+msgstr ""
+
+#: entrepreneurship.php:1054
+msgid "dark"
+msgstr ""
+
+#: entrepreneurship.php:1064
+msgid "arial"
+msgstr ""
+
+#: entrepreneurship.php:1065
+msgid "lucida grande"
+msgstr ""
+
+#: entrepreneurship.php:1066
+msgid "segoe ui"
+msgstr ""
+
+#: entrepreneurship.php:1067
+msgid "tahoma"
+msgstr ""
+
+#: entrepreneurship.php:1068
+msgid "trebuchet ms"
+msgstr ""
+
+#: entrepreneurship.php:1069
+msgid "verdana"
+msgstr ""
+
+#: entrepreneurship.php:1086
+#, fuzzy
+msgid "This hash tag will be used as default when your visitors click on Twitter button and retweet your content."
+msgstr "Den hashtaggen du lägger till här används som generell hashtagg när dina besökare trycker på Twitterknappen och retweetar ditt innehåll."
+
+#: entrepreneurship.php:1094
+msgid "vertical"
+msgstr ""
+
+#: entrepreneurship.php:1095
+msgid "horizontal"
+msgstr ""
+
+#: entrepreneurship.php:1096
+#: entrepreneurship.php:1136
+msgid "none"
+msgstr ""
+
+#: entrepreneurship.php:1134
+msgid "top"
+msgstr ""
+
+#: entrepreneurship.php:1135
+msgid "right"
+msgstr ""
+
+#: entrepreneurship.php:1153
+msgid "small (15px)"
+msgstr ""
+
+#: entrepreneurship.php:1154
+msgid "standard (24px)"
+msgstr ""
+
+#: entrepreneurship.php:1155
+msgid "medium (20px)"
+msgstr ""
+
+#: entrepreneurship.php:1156
+msgid "tall (60px)"
+msgstr ""
+
+#: entrepreneurship.php:1172
+msgid "default"
+msgstr ""
+
+#: entrepreneurship.php:1173
+msgid "explicit"
+msgstr ""
+
+#: entrepreneurship.php:1219
+msgid "At present time there are no help for the general page."
+msgstr ""
+
+#: entrepreneurship.php:1221
+msgid "At present time there are no help for the networks page."
+msgstr ""
+
+#: entrepreneurship.php:1253
+msgid "From this box you can do some customizations for this post/page."
+msgstr "Från denna box kan du göra ändringar för denna post/sida."
+
+#: entrepreneurship.php:1257
+msgid "Share message"
+msgstr "Dela meddelande"
+
+#: entrepreneurship.php:1262
+msgid "Twitter"
+msgstr ""
+
+#: entrepreneurship.php:1265
+#: entrepreneurship.php:1293
+msgid "Title"
+msgstr "Titel"
+
+#: entrepreneurship.php:1270
+msgid "Hash"
+msgstr ""
+
+#: entrepreneurship.php:1272
+msgid "Dont forget to add # before the tag. Example: #Entrepreneurship"
+msgstr "Glöm inte att lägga till # framför hash-taggen. Exempel #Entreprenörskap"
+
+#: entrepreneurship.php:1275
+msgid "Via account"
+msgstr "Via konto"
+
+#: entrepreneurship.php:1280
+msgid "Releated account"
+msgstr "Relaterat Twitterkonto"
+
+#: entrepreneurship.php:1285
+msgid "Releated account description"
+msgstr "Beskrivning av relaterat Twitterkonto"
+
+#: entrepreneurship.php:1290
+msgid "Pusha"
+msgstr ""
+
+#: entrepreneurship.php:1298
+msgid "Description"
+msgstr "Beskrivning"
+
+#: entrepreneurship.php:1398
+msgid "Created by"
+msgstr "Skapad av"
+
+#~ msgid "General settings for Entrepreneurship +1."
+#~ msgstr "Allmänna inställningar för Entreprenörskap +1."
