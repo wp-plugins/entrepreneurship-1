@@ -64,8 +64,7 @@ An answer to that question.
 
 == Screenshots ==
 
-1.
-2. 
+<img src="Entrepreneurship1.png"/>
 
 == Changelog ==
 
