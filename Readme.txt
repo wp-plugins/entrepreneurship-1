@@ -64,7 +64,7 @@ An answer to that question.
 
 == Screenshots ==
 
-<img src="Entrepreneurship1.png"/>
+1. This is a screenshot of how the plugin looks once it is installed on your website.
 
 == Changelog ==
 
